@@ -1,3 +1,5 @@
+//git sucks
+
 import Moment from 'react-moment';
 import React, { useState, useEffect } from 'react';
 import { withChatkitOneToOne } from '@pusher/chatkit-client-react';
